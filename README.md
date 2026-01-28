@@ -1,6 +1,6 @@
 # Git Practice
-## [A Prehistory of the Ethereum Protocol](https://vitalik.eth.limo/general/2017/09/14/prehistory.html) by Vitalik Buterin
+## A Prehistory of the Ethereum Protocol by Vitalik Buterin
 
-In this 2017 article, one of the original minds behind the Ethereum protocol, Vitalik Buterin, details the turbulent early years of the technology. Before reading this article, I was already aware of Buterin's role as an early developer and advocate for Bitcoin, but it was fascinating to learn about how he came to see the potential in the purposely limited contracts allowed by Bitcoin, and how that evolved into the conception of a fully Turing-complete globally distributed computing platform. It was also pleasant to learn more about Gavin Wood's role, as Buterin is definitely the dominant "face" of the technology.
+In [this 2017 article](https://vitalik.eth.limo/general/2017/09/14/prehistory.html), one of the original minds behind the Ethereum protocol, Vitalik Buterin, details the turbulent early years of the technology. Before reading this article, I was already aware of Buterin's role as an early developer and advocate for Bitcoin, but it was fascinating to learn about how he came to see the potential in the purposely limited contracts allowed by Bitcoin, and how that evolved into the conception of a fully Turing-complete globally distributed computing platform. It was also pleasant to learn more about Gavin Wood's role, as Buterin is definitely the dominant "face" of the technology.
 
 It's incredible to look back and see how many fundamental components of Ethereum weren't part of the original vision. (Edited by Marcus Song)
